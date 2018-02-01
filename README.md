@@ -43,17 +43,14 @@ Functionality:
  
 # Results
 
-<div>
-<img src="https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16938800_718299208348163_8218404912478407749_n.jpg?oh=3be769cbf4f5f7a38d6cc89f96c91b8c&oe=593A8481">
-</div>
+Typing:
+![alt tag](20170110_194507.jpg)
 
-<div>
-<img src="https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16864555_718299205014830_59988312397559957_n.jpg?oh=cf9b87f27a121935ef19c8db5465bf98&oe=5941E484">
-</div>
+Perform basic operations:
+![alt tag](20170110_194142.jpg)
 
-<div>
-<img src="https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16831927_718299201681497_871340886207935894_n.jpg?oh=b5799dc8d59814df06675e8fafd2fa14&oe=593F8FB2">
-</div>
+Checking truth value:
+![alt tag](20170110_194322.jpg)
 
 # Components
 
