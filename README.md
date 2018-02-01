@@ -36,9 +36,7 @@ Functionality:
 *	Key =: calculates the entered operation, displaying the result.
 
 # Diagram
-<div>
-<img src="https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16830985_718299211681496_3929054451360172274_n.jpg?oh=dad0b0e8c982c5f6acdd78e7a153090f&oe=594BE258">
-</div>
+![alt tag](keypad_LCD_bb.jpg)
  - The keypad should be a 4x4 matrix keypad with 8 pins.
  
 # Results
